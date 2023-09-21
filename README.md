@@ -1,2 +1,2 @@
-# SimpleConsoleMenu
+# ConsoleUI
 A few console dialogs.
